@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-08-gallery-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dima-Shvets/goit-js-hw-08-gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dima-Shvets/goit-js-hw-08-gallery/issues"
+  },
+  "homepage": "https://github.com/Dima-Shvets/goit-js-hw-08-gallery#readme",
+  "keywords": [],
+  "dependencies": {}
+}
